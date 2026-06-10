@@ -1,0 +1,42 @@
+Write a menu driven program for a 2d graphics editor in C using * and  _.
+
+1. Write functions to draw objects: circle, rectangle, line, and triangle.
+2. You should be able to      add objects to the picture,      
+delete objects from the picture.
+3. Use a 2d array of characters to store the picture.
+4. Write a function to display the picture.
+
+
+Optimized tool selectionReviewing existing file to update the graphics editor program.
+
+Read [](file:///c%3A/Users/SANJANA/OneDrive/Desktop/ACP/mini_project.c)
+
+Created [](file:///c%3A/Users/SANJANA/OneDrive/Desktop/ACP/mini_project.c)
+
+Compiling the C program to verify syntax and ensure the menu logic works.
+
+Ran terminal command: gcc mini_project.c -o mini_project.exe
+
+## ✅ Completed
+
+Created mini_project.c with a menu-driven 2D graphics editor using `*` for drawing and `_` for blank space.
+
+### Features
+- Draw objects:
+  - Circle
+  - Rectangle
+  - Line
+  - Triangle
+- Add objects to the picture
+- Delete objects by ID
+- Store picture in a 2D array
+- Display picture to console
+- List current objects
+
+### Verified
+- Program compiles successfully with:
+  - `gcc mini_project.c -o mini_project.exe`
+
+If you want, I can also add a “clear screen” option or support object editing.
+
+Made changes.
